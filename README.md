@@ -1,9 +1,9 @@
 ![brazilianfunknamegenerator_l](https://github.com/wcupped/brazilianfunknamegenerator/assets/134646828/af2c6907-2536-4364-b45a-2862e84a685e)
 
-# DESC
+# DESC 📖
 - Don't know how to name your super puper brazilian funk track? Use this one app, good design, it got released very recently, so, it can be very buggy (Powered by AI)
 
-# HOW TO USE
+# HOW TO USE ❓
 - 📂 Open the program
 
 - 💻 Choose the type of the name
