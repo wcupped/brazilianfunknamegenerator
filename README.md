@@ -12,23 +12,7 @@
 
 - ### 🐱‍💻 Also don't forget to look at console (if there are error try again)
 
-- ### 🦾 Tell me about any bugs or problems in this app in "Issues" tab and i'll try to fix them ASAP
+- ### 🦾 Tell me about any bugs or problems in this app and i'll try to fix them ASAP
 
-# Install all modules
-
-**CustomTkinter**
-```sh
-pip install customtkinter
-```
-
-**Pillow**
-```sh
-pip install pillow
-```
-
-**GPT4Free**
-```sh
-pip install g4f
-```
 
 **Full Changelog:** https://github.com/wcupped/brazilianfunknamegenerator/commits/1.0
